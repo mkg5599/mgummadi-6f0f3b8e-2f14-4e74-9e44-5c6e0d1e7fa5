@@ -1,0 +1,13 @@
+{
+  "name": "@mgummadi-6f0f3b8e-2f14-4e74-9e44-5c6e0d1e7fa5/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/js": "22.3.3",
+    "@nx/workspace": "22.3.3",
+    "nx": "22.3.3"
+  }
+}
